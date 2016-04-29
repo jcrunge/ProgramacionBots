@@ -1,7 +1,7 @@
 # Programacion Bots
-**Firts you have to use python 2.7**
+**First you have to use python 2.7**
 
-Install Selenium becouse is a headless Webkit and eliminates the need for a graphical browser, tests run much faster.
+Install Selenium because is a headless Webkit and eliminates the need for a graphical browser, tests run much faster.
 
 This is what you have to do:
 
@@ -21,4 +21,4 @@ You can change Firefox for PhantomJS() if you don't have firefox installed
 ```py
 driver = webdriver.PhantomJS()
 ```
-#### When you run the code, a firefox window will open and you shoud see the outputted URL in the terminal 
+#### When you run the code, a firefox window will open and you should see the outputted URL in the terminal 
